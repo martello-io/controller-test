@@ -1,7 +1,7 @@
 {
   "name": "candy-machine-mint",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "http://localhost/",
   "private": true,
   "engines": {
     "node": "14.x"
